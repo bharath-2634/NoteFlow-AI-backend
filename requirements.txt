@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+python-docx
+python-pptx
+pypdf
+langchain
+google-cloud-aiplatform
+sentence-transformers
+pinecone
+PyPDF2
+python-dotenv
+pymongo
+motor 
+httpx
+vertexai
+google-generativeai==0.3.2
